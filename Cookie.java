@@ -1,3 +1,9 @@
+/*
+IS 4010: Lab 10
+Partners: Alec Rezelj, Kiley Hardcorn
+Date: April 13, 2021
+*/
+
 public class Cookie{
     public int number;
     public int bakeTemp;
